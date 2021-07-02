@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-kotlin-chapter08.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-kotlin-chapter08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-kotlin-chapter07/gradle-kotlin-chapter07.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-kotlin-chapter07/gradle-kotlin-chapter07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-kotlin-chapter08/gradle-kotlin-chapter08.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-kotlin-chapter08/gradle-kotlin-chapter08.iml" />
     </modules>
   </component>
 </project>
